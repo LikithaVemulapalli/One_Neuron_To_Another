@@ -5,8 +5,8 @@ The main goal fo this project is to understand and implement the neural network 
 ## Datasets:
 For this project, I have used Wisconsin Breast Cancer and Ecoli dataset. These datsets can be found in the Data sub folder. Below is the link provided:
 
-[Cancer Data](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29)
-[Ecoli Data](https://archive.ics.uci.edu/ml/datasets/Ecoli)
+1. [Cancer Data](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29)
+2. [Ecoli Data](https://archive.ics.uci.edu/ml/datasets/Ecoli)
 
 When importing both of these dataset I normalized the values in each column, excluding the classification column. Also, in this process if the data had letters instead of numbers I converted it to numbers using the same normalization process.
 
