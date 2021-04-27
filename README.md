@@ -18,7 +18,7 @@ The implementation for this algorithm is located in the Notebooks folder.
 
 ## Neural Network Model:
 
-Neural networks are a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns. In case of the data sets chosen in this assignment neural network can be used to perform classification of the flower species and protein class for Iris and Ecoli data sets respectively. Neural network can be used to help group unlabeled data according to similarities among the example inputs, and then classify data when it has a labeled dataset to train on.
+Neural networks are a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns. In case of the data sets chosen in this assignment neural network can be used to perform classification of the protein class for Ecoli and Cancer data sets respectively. Neural network can be used to help group unlabeled data according to similarities among the example inputs, and then classify data when it has a labeled dataset to train on.
 
 Each network consists of an input layer, a hidden layer, and an output layer. For this project I implemented a neural network class that featured forward and backward functions. Forward implementing forward propagation and backwards implementing backward propagation. For the neural network I chose the sigmoid function as my activation function. 
 
