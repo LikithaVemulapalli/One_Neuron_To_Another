@@ -26,11 +26,11 @@ The detailed explanation of the implementation is clearly mentioned for each fun
 
 ## Conclusions:
 
-Neural Network model implemented worked pretty well on both the datasets used. We can observe the accurate predictions made on the test data for each of the dataset. The number of iterations depends on the number of instances for each dataset to avoid overfitting the model. For Cancer dataset, the accuracy was around 97 percent adn for the Ecoli dataset the accuracy was 82 percent.
+Neural Network model implemented worked pretty well on both the datasets used. We can observe the accurate predictions made on the test data for each of the dataset. The number of iterations depends on the number of instances for each dataset to avoid overfitting the model. For Cancer dataset, the accuracy was around 97 percent and for the Ecoli dataset the accuracy was 82 percent.
 
 ## Steps to execute:
 1. Download the files from the github repository.
-2. Get the allines.txt by unzipping the .zip file.
+2. Get the ecoli_data.csv and cancer_data.csv by unzipping the .zip file.
 3. Place the file in data folder and place the data folder in notebooks folder. The notebooks folder should also have ipynb file as well.
 4. Navigate to terminal and type "jupyter notebook"
 5. Navigate to the folder where the notebooks are placed.
