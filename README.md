@@ -50,5 +50,5 @@ Neural Network model implemented worked pretty well on both the datasets used. W
 ### References:
 https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6</br>
 https://towardsdatascience.com/neural-network-on-iris-data-4e99601a42c8 </br>
-https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6</br>
+
 
